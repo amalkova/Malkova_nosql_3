@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+ml-1m/
+ml-1m.zip
